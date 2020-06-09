@@ -1,0 +1,15 @@
+{
+    "msi": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-new-msi-12224-authRole",
+            "UnauthRoleArn": "arn:aws:iam::103111312890:role/amplify-new-msi-12224-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::103111312890:role/amplify-new-msi-12224-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplify-new-msi-12224-deployment",
+            "UnauthRoleName": "amplify-new-msi-12224-unauthRole",
+            "StackName": "amplify-new-msi-12224",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:103111312890:stack/amplify-new-msi-12224/6883d990-aa6d-11ea-ab18-0aabc16c792a",
+            "AmplifyAppId": "d1vec9j4inq5fi"
+        }
+    }
+}
